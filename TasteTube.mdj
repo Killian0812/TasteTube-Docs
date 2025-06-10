@@ -376,7 +376,7 @@
 									"font": "Arial;13;0",
 									"left": 305.5,
 									"top": 172.5,
-									"width": 122.67724609375,
+									"width": 122,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JBNSGLTwXY="
@@ -844,7 +844,7 @@
 									"font": "Arial;13;0",
 									"left": 259,
 									"top": 92.5,
-									"width": 168.89453125,
+									"width": 168,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JDKwGRiAIs="
@@ -1312,7 +1312,7 @@
 									"font": "Arial;13;0",
 									"left": 305.5,
 									"top": 260.5,
-									"width": 121.07763671875,
+									"width": 120,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JENOWcJ6sM="
@@ -1780,7 +1780,7 @@
 									"font": "Arial;13;0",
 									"left": 291.5,
 									"top": 324.5,
-									"width": 132.814453125,
+									"width": 132,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JFP/2le6m0="
@@ -2716,7 +2716,7 @@
 									"font": "Arial;13;0",
 									"left": 255,
 									"top": 492.5,
-									"width": 147.97265625,
+									"width": 147,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JK/AYmqMSo="
@@ -3832,7 +3832,7 @@
 									"font": "Arial;13;0",
 									"left": 515.5,
 									"top": 404.5,
-									"width": 94.34765625,
+									"width": 94,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2JujBbQPWKk="
@@ -4950,7 +4950,7 @@
 									"font": "Arial;13;0",
 									"left": 324,
 									"top": 636.5,
-									"width": 134.81396484375,
+									"width": 134,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2KG2HP4Rnhc="
@@ -5418,7 +5418,7 @@
 									"font": "Arial;13;0",
 									"left": 275,
 									"top": 580.5,
-									"width": 167.4345703125,
+									"width": 166,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW2KIaFgjye+M="
@@ -67288,7 +67288,7 @@
 										"$ref": "AAAAAAGXWiwi2nz8J3E="
 									},
 									"edgePosition": 1,
-									"text": "Renew delivery"
+									"text": "Re-delivery"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -68116,7 +68116,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGXWiwi2nz7hCA="
 									},
-									"name": "Renew delivery"
+									"name": "Re-delivery"
 								}
 							]
 						},
